@@ -1,4 +1,4 @@
-# Marvel CSS Sprite Build
+# Todo list homework 3
 
 This repo is for the To do list Hw3. The todo list demonstrates the use of  CSS CASCADE, SELECTION & PSEUDO SELECTORS. 
 
